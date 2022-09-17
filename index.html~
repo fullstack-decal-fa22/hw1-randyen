@@ -46,7 +46,7 @@
         and for Will Byers to have the Mind Flayer exorcised from his body. 
         He also defends the kids against Billy, and is knocked unconscious before Max is able to disable her brother.</p>
 
-        <button onClick="alert('Thank you for being a big Steve Harrington fan!')">Click here to be a fan!</button>
+        <button onClick="alert('hello')">Click here to be a fan!</button>
         <br> 
         <br>
         <a target="_blank" href="file:///Users/randynguyen/Desktop/fullstack-decal/hw1-randyen/secret.html">Click here for a secret!</a>
